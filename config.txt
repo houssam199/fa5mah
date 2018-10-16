@@ -1,0 +1,6 @@
+token=NTAxNjA3MDMwNzEzNDgzMjY0.Dqb1ew.0xgJUTyvGL3t-FszR_fj-e-XPhw
+owner=494550922328801302
+prefix=Q
+game=Tybe Qhelp
+stayinchannel=true
+songinstatus=false
